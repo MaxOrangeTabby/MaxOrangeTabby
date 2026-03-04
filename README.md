@@ -1,6 +1,5 @@
 ### Hi I'm Peter, 
 I'm interested in game development and machine learning (*still learning though*).
-
 If I'm not coding then I'm likely drawing or baking. My favourite pastry I've made so far is apple pie!
 
 [Here's a link to some of the games I've made so far](https://xxx-jojo-siwa-4-ever-xxx.itch.io/)
