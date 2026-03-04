@@ -1,4 +1,4 @@
-I like building software and making games. If I'm not coding then I'm <br>probably drawing or baking. My favourite pastry I've made so far is apple pie!
+I like game dev and building software. If I'm not coding then I'm <br>probably drawing or baking. My favourite pastry I've made so far is apple pie!
 
 [Here's a link to some of the games I've made so far](https://xxx-jojo-siwa-4-ever-xxx.itch.io/)
 
